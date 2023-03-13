@@ -14,55 +14,55 @@ export const PRODUCTS = [
     {
         id : 1,
         productName: "Chilly Paneer",
-        price : 200,
+        price : 200.00,
         productImage:chillipaneer
     },
     {
         id : 2,
         productName: "Butter paneer masala",
-        price : 200,
+        price : 200.00,
         productImage:butterpaneer
     },
     {
         id : 3,
         productName: "Cheesy fries",
-        price : 200,
+        price : 200.00,
         productImage:cheesyfries
     },
     {
         id : 4,
         productName: "Mojito",
-        price : 200,
+        price : 200.00,
         productImage:mojito
     },
     {
         id : 5,
         productName: "Oreo Milkshake",
-        price : 200,
+        price : 200.00,
         productImage:oreo
     },
     {
         id : 6,
         productName: "Kitkat Milkshake",
-        price : 200,
+        price : 200.00,
         productImage:kitkat
     },
     {
         id : 7,
         productName: "Pizza",
-        price : 200,
+        price : 200.00,
         productImage:pizza
     },
     {
         id : 8,
         productName: "Veg Fried Rice",
-        price : 200,
+        price : 200.00,
         productImage:friedrice
     },
     {
         id : 9,
         productName: "Veg Spring rolls",
-        price : 200,
+        price : 200.00,
         productImage:springrolls
     }
 ]

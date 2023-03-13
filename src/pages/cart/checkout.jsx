@@ -1,7 +1,7 @@
 import React, {useContext} from 'react';
 import StripeCheckout from 'react-stripe-checkout';
 import { ShopContext } from '../../context/shop-context';
-import './checkout.css'
+// import './checkout.css'
 
 export const Checkout = () => {
     const { getTotalCartAmount } = useContext(ShopContext);
